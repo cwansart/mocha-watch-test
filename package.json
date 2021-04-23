@@ -1,0 +1,13 @@
+{
+  "name": "mocha-watch-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch -R min"
+  },
+  "author": "Christian Wansart",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mocha": "^8.3.2"
+  }
+}
